@@ -1,5 +1,5 @@
-**Optimisation Theory Assignment
-**
+**Optimisation Theory Assignment**
+
 Develop an optimisation algorithm using Particle Swarm Optimization.
 
 a. Modify the algorithm by proposing any amendments.
